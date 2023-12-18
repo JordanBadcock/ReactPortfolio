@@ -1,11 +1,18 @@
-import React from 'react'
-import './Home.css'
+import React from 'react';
+import './Home.css';
+import { motion } from 'framer-motion';
+
 
 function Home() {
     const emailAddress = 'jordan.badcock51@ed.cna.nl.ca';
 
     return(
-        <div className='intro'>
+        <motion.div 
+            className='intro'
+            initial={{opacity: 0}}
+            animate={{opacity: 1}}
+            exit={{opacity: 0}}
+            >
             <div className='intro-content'>
                 <img src='/images/selfie.jpg' id='selfie' alt='intro img'/>
                 <div className='intro-text'>
@@ -24,7 +31,7 @@ function Home() {
                     <img src='/images/email.png' id='emailImg' alt='Email' />
                 </a>
             </div>
-        </div>
+        </motion.div>
     )
 }
 
