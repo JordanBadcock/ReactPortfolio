@@ -24,31 +24,49 @@ function About() {
                 <div className="skills-container">
                     <br />
                     <div className="skills">
-                        <img id='htmlImg' src='/images/html.png' alt="HTML" />
+                        <a href='https://developer.mozilla.org/en-US/docs/Web/HTML' target='_blank'>
+                            <img id='htmlImg' src='/images/html.png' alt="HTML" />
+                        </a>
                     </div>
                     <div className='skills'>
-                        <img id='cssImg' src='/images/css.png' alt='CSS' />
+                        <a href='https://developer.mozilla.org/en-US/docs/Web/CSS' target='_blank'>
+                            <img id='cssImg' src='/images/css.png' alt='CSS' />
+                        </a>
                     </div>
                     <div className="skills">
-                        <img id='javaImg' src='/images/java.png' alt="Java" />
+                        <a href='https://dev.java/learn/' target='_blank'>
+                            <img id='javaImg' src='/images/java.png' alt="Java" />
+                        </a>
                     </div>
                     <div className="skills">
-                        <img id='jsImg' src='/images/js.png' alt="JavaScript" />
+                        <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank'>
+                            <img id='jsImg' src='/images/js.png' alt="JavaScript" />
+                        </a>
                     </div>
                     <div className="skills">
-                        <img id='reactImg' src='/images/react.png' alt="React" />
+                        <a href='https://legacy.reactjs.org/docs/getting-started.html' target='_blank'>
+                            <img id='reactImg' src='/images/react.png' alt="React" />
+                        </a>
                     </div>
                     <div className="skills">
-                        <img id='nodeImg' src='/images/node.png' alt="Node.js" />
+                        <a href='https://nodejs.org/docs/latest/api/' target='_blank'>
+                            <img id='nodeImg' src='/images/node.png' alt="Node.js" />
+                        </a>
                     </div>
                     <div className="skills">
-                        <img id='mongodbImg' src='/images/mongodb.png' alt="MongoDB" />
+                        <a href='https://www.mongodb.com/docs/' target='_blank'>
+                            <img id='mongodbImg' src='/images/mongodb.png' alt="MongoDB" />
+                        </a>
                     </div>
                     <div className="skills">
-                        <img id='bootstrapImg' src='/images/bootstrap.png' alt="Bootstrap" />
+                        <a href='https://getbootstrap.com/docs/4.1/getting-started/introduction/' target='_blank'>
+                            <img id='bootstrapImg' src='/images/bootstrap.png' alt="Bootstrap" />
+                        </a>
                     </div>
                     <div className="skills">
-                        <img id='githubImg' src='/images/github.png' alt="GitHub" />
+                        <a href='https://docs.github.com/en' target='_blank'>
+                            <img id='githubImg' src='/images/github.png' alt="GitHub" />
+                        </a>
                     </div>
                     {/*  <div className="skills">
                         <img id='mysqlImg' src='/images/mysql.png' alt="MySQL" />
