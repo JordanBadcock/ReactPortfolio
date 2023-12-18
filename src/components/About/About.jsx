@@ -24,7 +24,10 @@ function About() {
                 <div className="skills-container">
                     <br />
                     <div className="skills">
-                        <img id='html-cssImg' src='/images/html-css.png' alt="HTML/CSS" />
+                        <img id='htmlImg' src='/images/html.png' alt="HTML" />
+                    </div>
+                    <div className='skills'>
+                        <img id='cssImg' src='/images/css.png' alt='CSS' />
                     </div>
                     <div className="skills">
                         <img id='javaImg' src='/images/java.png' alt="Java" />

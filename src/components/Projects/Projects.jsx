@@ -23,6 +23,7 @@ function Projects() {
                             <a href='https://github.com/JordanBadcock/interactive-rating' target='_blank'>
                                 <img src='/images/github.png' />
                             </a>
+                            <p>View Code</p>
                         </div>
                         <div className="library">
                             <p>
@@ -34,6 +35,7 @@ function Projects() {
                             <a href='https://github.com/JordanBadcock/Express-Local-Library/' target='_blank'>
                                 <img src='/images/github.png' />
                             </a>
+                            <p>View Code</p>
                         </div>
                     </div>
                     <div className="row">
@@ -47,6 +49,7 @@ function Projects() {
                             <a href='https://github.com/JordanBadcock/Insurance-Application' target='_blank' >
                                 <img src='/images/github.png' />
                             </a>
+                            <p>View Code</p>
                         </div>
                         <div className="messageBoard">
                             <p>
@@ -58,6 +61,7 @@ function Projects() {
                             <a href='https://github.com/JordanBadcock/mini-message-board' target='_blank'>
                                 <img src='/images/github.png' />
                             </a>
+                            <p>View Code</p>
                         </div>
                     </div>
                 </div>
