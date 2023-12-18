@@ -3,7 +3,6 @@ import { BrowserRouter as Router } from 'react-router-dom';
 import Navbar from './components/Navbar/Navbar';
 import AnimatedRoutes from './components/AnimatedRoutes';
 import './App.css';
-import {motion} from 'framer-motion';
 
 function App() {
     return (
@@ -11,7 +10,6 @@ function App() {
             <Router>
                 <Navbar />
                 <AnimatedRoutes />
-                {/* <Footer /> */}
             </Router>
         </div>
     );

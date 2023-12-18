@@ -36,7 +36,7 @@
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
     max-width: 500px;
     margin: 0 auto;
-    background-color: #ffffff; /* Adjust the background color */
+    background-color: transparent; /* Adjust the background color */
 }
 
 .skills {
