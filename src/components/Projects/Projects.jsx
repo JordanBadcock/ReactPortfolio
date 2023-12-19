@@ -62,7 +62,6 @@ function Projects() {
                     </div>
                 </div>
             </motion.div>
-            <img src='/public/images/coding.png'/>
         </section>
     );
 }
