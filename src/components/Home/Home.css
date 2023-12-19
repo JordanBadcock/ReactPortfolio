@@ -57,3 +57,11 @@
 .footer img {
     margin: 0 10px;
 }
+
+
+@media screen and (max-width: 768px) {
+    body {
+        font-size: 14px;
+        background-color: red;
+    }
+}
