@@ -16,7 +16,7 @@ function Home() {
             <div className='intro-content'>
                 <img src='/images/selfie.jpg' id='selfie' alt='intro img'/>
                 <div className='intro-text'>
-                    <h1>Jordan Badcoooooock</h1>
+                    <h1>Jordan Badcock</h1>
                     <p>Software Developer</p>
                 </div>
             </div>
