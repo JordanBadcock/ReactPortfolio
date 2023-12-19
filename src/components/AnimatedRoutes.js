@@ -6,7 +6,6 @@ import About from './About/About';
 
 import { AnimatePresence } from 'framer-motion';
 
-
 function AnimatedRoutes() {
     const location = useLocation();
 

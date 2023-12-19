@@ -12,7 +12,7 @@ function About() {
             >
                 <h1>About Me</h1>
                 <p>
-                I am a recent graduate of the Software Development program from the College of the North Atlantic. I am 23 years old and I'm from St. John's, NL, Canada. I have a passion for Web Development, Gaming, and Sports.
+                I am a recent graduate of the Software Development program from the College of the North Atlantic. I am 23 years old and I'm from St. John's, NL, Canada. I have a passion for Software Development, Gaming, and Sports.
                 </p>
                 <p>
                 During my 3-year program, I completed four separate work-terms, each lasting around four months, where I picked up traits and skills essential to be successful in the Tech field.
