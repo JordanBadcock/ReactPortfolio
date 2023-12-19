@@ -8,7 +8,9 @@ function App() {
     return (
         <div className="App">
             <Router>
-                <Navbar />
+                <header>
+                    <Navbar />
+                </header>
                 <AnimatedRoutes />
             </Router>
         </div>

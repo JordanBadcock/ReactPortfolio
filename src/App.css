@@ -5,6 +5,11 @@ html, body {
     margin: 0;
 }
 
+header {
+    position: fixed;
+    top: 0;
+}
+
 h1 {
     font-family: 'Dancing Script', cursive;
 }
@@ -25,37 +30,4 @@ body {
     box-sizing: border-box;
     transition: background 0.5s ease-in-out;
     opacity: 1;
-}
-/* Navbar Styles */
-nav {
-    background-color: transparent;
-    padding: 10px;
-    text-align: center;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 1000;
-}
-
-nav ul {
-    list-style: none;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-nav li {
-    margin: 0 15px;
-}
-
-nav a {
-    text-decoration: none;
-    color: #fff;
-    font-size: 18px;
-    font-weight: bold;
-    transition: color 0.3s ease;
-}
-
-nav a:hover {
-    color: #3498db;
 }

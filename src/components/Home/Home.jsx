@@ -22,7 +22,7 @@ function Home() {
             </div>
             <div className='footer'>
                 <a href='https://www.linkedin.com/in/jordan-badcock-0022751bb/' target='_blank' rel='noopener noreferrer'>
-                    <img src='/images/linkedin.png' id='linkedinImg' alt='LinkedIn' />
+                    <img src='/images/linkedin.png' id='linkedinImg' class='grayscale' alt='LinkedIn' />
                 </a>
                 <a  href='https://github.com/JordanBadcock' target='_blank' rel='noopener noreferrer'>
                     <img src='/images/github.png' id='githubImg'/>
